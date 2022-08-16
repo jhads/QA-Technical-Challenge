@@ -7,17 +7,17 @@ This challenge consists of a basic blogging app for which you are requested to s
 Please read below for the context and instructions.
 
 ### Challenge
-1. Write 5 manual test cases
+1. Write 5 manual test-cases
   * Include one negative test
   * Include one api test
-2. Automate your test cases using Cypress and Cucumber
+2. Automate your tests using Cypress and Cucumber
 3. Document any bugs you find 
 4. Suggest some areas for possible improvements
 
 ### Process
 1. Fork this repository
-2. Write your manual test cases in the 'test-cases.feature' file
-3. Update README.md on how to run your project
+2. Write your manual test-cases in the 'test-cases.feature' file
+3. Update the README.md on how to run your project
 
 ### Bonus
 1. Add Cypress to CI Pipeline in GitHib Actions
