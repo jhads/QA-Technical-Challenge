@@ -1,4 +1,4 @@
-## QA Technical Challenge
+## HENI QA Technical Challenge
 
 Thank you for taking the time to complete this challenge!
 
