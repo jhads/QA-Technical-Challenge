@@ -8,15 +8,16 @@ Please read below for the context and instructions.
 
 ### Challenge
 1. Write 5 manual test-cases
-  * Include one negative test
-  * Include one api test
+    * Include one negative test
+    * Include one api test
 2. Automate your tests using Cypress and Cucumber
 3. Document any bugs you find 
 4. Suggest some areas for possible improvements
 
 ### Process
 1. Fork this repository
-2. Write your manual test-cases in the 'test-cases.feature' file
+2. Write your manual test-cases  in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature)
+2. Include your test appraoch, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md)
 3. Update the README.md on how to run your project
 
 ### Bonus
