@@ -25,5 +25,6 @@ Please read below for the context and instructions.
 
 ### Tips
 1. Don't over complicate things
-3. Think of reuseability when automating tests
-2. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
+3. Think of reuseability when automating tests 
+4. Always return application to inital state
+5. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
