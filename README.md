@@ -26,7 +26,6 @@ Please read below for the context and instructions.
 3. Add your framework to GitHub Actions
 
 ### Tips
-1. Don't overcomplicate testing
-3. Think of reusability when automating tests 
-4. Always return the application to its initial state
-5. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
+1. Think of reusability when automating tests 
+2. Always return the application to its initial state
+3. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
