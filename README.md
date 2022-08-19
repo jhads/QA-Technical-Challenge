@@ -14,13 +14,14 @@ Please read below for the context and instructions.
 ### Process 📄
 1. Fork this repository
 2. Install the latest version of Cypress
-2. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
-2. Include your test appraoch, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md) file
-3. Update the README.md on how to run your project
+3. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
+4. Include your test appraoch, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md) file
+5. Update the README.md on how to run your project
 
 ### Bonus Points 💰
-1. Include a negative test and and api test
-1. Add your framework GitHib Actions
+1. Include one api test
+2. Include one negative-test
+3. Add your framework GitHib Actions
 
 ### Tips
 1. Don't over complicate things
