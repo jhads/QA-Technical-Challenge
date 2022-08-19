@@ -13,10 +13,11 @@ Please read below for the context and instructions.
 
 ### Process 📄
 1. Fork this repository
-2. Install the latest version of Cypress
-3. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
-4. Include your test approach, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md) file
-5. Update the README.md on how to run your project
+2. Create a user [here](https://react-redux.realworld.io/#/?_k=0rhmw8](https://react-redux.realworld.io/#/register?_k=fqwjg4) for your tests
+3. Install the latest version of Cypress
+4. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
+5. Include your test approach, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md) file
+6. Update the README.md on how to run your project
 
 ### Bonus Points 💰
 1. Include one API test
