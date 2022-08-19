@@ -12,7 +12,7 @@ Please read below for the context and instructions.
 3. Document your test approach, bugs and areas for possible improvements
 
 ### Process 📄
-1. Fork this repository
+1. [Fork](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) this repository
 2. Create a user [here](https://react-redux.realworld.io/#/register?_k=fqwjg4) for your tests
 3. Install the latest version of Cypress
 4. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
@@ -22,7 +22,7 @@ Please read below for the context and instructions.
 
 ### Bonus Points 💰
 1. Include one API test
-2. Include one negative-test
+2. Include one negative test
 3. Add your framework to GitHub Actions
 
 ### Tips
