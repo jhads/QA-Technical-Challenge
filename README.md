@@ -18,7 +18,7 @@ Please read below for the context and instructions.
 4. Write your manual test-cases in the [test-cases.feature](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-cases.feature) file
 5. Include your test approach, bugs and potential improvements in the [test-review.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/test-review.md) file
 6. Update the README.md on how to run your project
-7. Make repoisotry public and share the link with HENI's HR team
+7. Make repository public and share the link with HENI's HR team
 
 ### Bonus Points 💰
 1. Include one API test
