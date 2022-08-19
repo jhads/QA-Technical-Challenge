@@ -20,7 +20,7 @@ Please read below for the context and instructions.
 6. Update the [README.md](https://github.com/jhads/QA-Technical-Challenge/blob/master/README.md) on how to run your project
 7. Make your repository public and share the link with HENI's HR team
 
-### Bonus Points 💰
+### Bonus Points 🎯
 1. Include one API test
 2. Include one negative test
 3. Add your framework to GitHub Actions
