@@ -22,7 +22,7 @@ Please read below for the context and instructions.
 ### Bonus Points 💰
 1. Include one API test
 2. Include one negative-test
-3. Add your framework GitHub Actions
+3. Add your framework to GitHub Actions
 
 ### Tips
 1. Don't overcomplicate testing
