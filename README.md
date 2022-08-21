@@ -25,7 +25,7 @@ Please read below for the context and instructions.
 2. Include one negative test
 3. Add your framework to GitHub Actions
 
-### Tips
+### Tips 💡
 1. Think of reusability when automating tests 
 2. Always return the application to its initial state
 3. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
